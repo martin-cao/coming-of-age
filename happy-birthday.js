@@ -244,5 +244,6 @@ async function projectMohorovicic () {
         upgradeNotice();
         i = i+1;
     }
+    console.log('%cHappy birthday🍰','font-size: 5em');
     
 }
